@@ -1,2 +1,2 @@
 # LED-Cube
-Arduino code for a desktop LEDcube
+Arduino code for a desktop LED cube
